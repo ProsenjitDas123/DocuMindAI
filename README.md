@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 DocuMind AI
+# 📄 DocuMindAI
 
 **AI-powered document intelligence — upload, understand, and converse with your documents.**
 
